@@ -1,40 +1,19 @@
-# Filmcademy.io
+# AI4Less
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Issues](https://img.shields.io/github/issues/filmcademy/filmcademy-tools)](https://github.com/filmcademy/filmcademy-tools/issues)
-[![Discord](https://img.shields.io/discord/your-discord-server-id)](https://discord.gg/your-invite-link)
+**Making AI Accessible and Affordable for Everyone**
 
-**Filmcademy.io** is an open-source platform for filmmakers to learn, collaborate, and automate workflows in **DaVinci Resolve**. Our tools and resources empower creators to streamline video editing, color grading, and post-production.
+AI4Less is a cost-optimization platform that provides developers and businesses with affordable access to premium AI models including Google Gemini, Veo 3, Nano Banana, and other cutting-edge AI services.
 
----
+## 🎯 Mission
 
-## 🚀 Features
+We believe powerful AI technology shouldn't be limited by budget constraints. AI4Less democratizes access to state-of-the-art AI models by offering significantly reduced pricing while maintaining the same quality and performance as official APIs.
 
-- **Automated Workflows**: Simplify repetitive tasks in DaVinci Resolve with Python-based tools.
-- **Community Templates**: Share and reuse workflows for color grading, VFX, and audio editing.
-- **AI-Powered Tools**: Integrate translation, dubbing, and speech recognition via tools like `LangFlip`.
-- **Open-Source**: Customize and contribute to tools like `davinci-auto-importer`.
+## 💰 Cost Savings
 
----
+We leverage bulk purchasing power and optimized infrastructure to deliver substantial savings:
 
-## 📦 Tools & Repositories
+- **Nano Banana (Image Generation)**: Significant savings compared to Google's $0.039 per image rate
+- **Veo 3 (Video Generation)**: Reduced costs from Google's $0.75 per second standard pricing
+- **Gemini Models**: Competitive pricing on all Gemini variants
 
-### 1. [davinci-auto-importer](https://github.com/filmcademy/davinci-auto-importer)
-Automatically import video recordings (e.g., from OBS) into DaVinci Resolve.  
-**Features**:
-- Watches folders for new media files.
-- Organizes clips into Resolve projects with metadata.
-
-## 🤝 Contributing
-We welcome contributions! Here’s how:
-
-1. **Report Bugs:** Open a GitHub Issue.
-
-2. **Submit Workflows:** Share your DaVinci Resolve workflows in our Community Templates.
-
-3. **Code Contributions:** Fork the repo, make changes, and submit a pull request.
-
-📚 Resources
-- Website: filmcademy.io
-
-- YouTube Tutorials: Filmcademy YouTube
+Our infrastructure aggregates demand across multiple accounts, batches API requests efficiently, and optimizes request routing to minimize operational costs and pass savings directly to users.
